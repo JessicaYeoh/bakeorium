@@ -1,0 +1,472 @@
+[25-Jul-2017 03:02:11 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:11 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:11 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:11 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[25-Jul-2017 03:02:13 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:13 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:13 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:13 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[25-Jul-2017 03:02:15 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:15 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:15 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:15 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[25-Jul-2017 03:02:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[25-Jul-2017 08:02:15 UTC] wizard_viewed
+[25-Jul-2017 08:02:30 UTC] wizard_started
+[25-Jul-2017 08:02:44 UTC] wizard_step_completed
+[25-Jul-2017 08:02:45 UTC] wizard_step_viewed
+[25-Jul-2017 08:02:50 UTC] wizard_step_viewed
+[25-Jul-2017 08:02:50 UTC] wizard_step_completed
+[25-Jul-2017 08:02:54 UTC] wizard_step_completed
+[25-Jul-2017 08:02:55 UTC] wizard_step_viewed
+[25-Jul-2017 08:02:58 UTC] contact_page_built
+[25-Jul-2017 08:02:59 UTC] wizard_step_viewed
+[25-Jul-2017 08:02:59 UTC] wizard_step_completed
+[25-Jul-2017 08:03:10 UTC] wizard_step_skipped
+[16-Aug-2017 02:48:52 UTC] wizard_hidden
+[28-Aug-2017 21:42:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/essicaye/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 462
+[28-Aug-2017 21:42:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/essicaye/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 462
+[04-Sep-2017 02:30:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/essicaye/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 462
+[04-Sep-2017 02:30:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/essicaye/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 462
+[16-Sep-2017 06:48:07 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:07 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:07 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:07 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[16-Sep-2017 06:48:09 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:09 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:09 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:09 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[16-Sep-2017 06:48:11 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:11 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:11 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:11 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[16-Sep-2017 06:48:12 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:12 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:12 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:12 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[16-Sep-2017 06:48:13 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:13 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:13 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:13 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Sep-2017 06:48:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[23-Sep-2017 05:18:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/essicaye/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 462
+[23-Sep-2017 05:18:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/essicaye/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 462
+[22-Oct-2017 11:10:07 UTC] PHP Warning:  require_once(https://jessicayeohwp.com/wp-admin/includes/file.php): failed to open stream: HTTP request failed! HTTP/1.1 406 Not Acceptable
+ in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 11:10:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://jessicayeohwp.com/wp-admin/includes/file.php' (include_path='.:/opt/php70/lib/php') in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 11:10:15 UTC] PHP Warning:  require_once(https://jessicayeohwp.com/wp-admin/includes/file.php): failed to open stream: HTTP request failed! HTTP/1.1 406 Not Acceptable
+ in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 11:10:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://jessicayeohwp.com/wp-admin/includes/file.php' (include_path='.:/opt/php70/lib/php') in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 11:10:55 UTC] PHP Warning:  require_once(https://jessicayeohwp.com/wp-admin/includes/file.php): failed to open stream: HTTP request failed! HTTP/1.1 406 Not Acceptable
+ in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 11:10:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://jessicayeohwp.com/wp-admin/includes/file.php' (include_path='.:/opt/php70/lib/php') in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 11:11:05 UTC] PHP Warning:  require_once(https://jessicayeohwp.com/wp-admin/includes/file.php): failed to open stream: HTTP request failed! HTTP/1.1 406 Not Acceptable
+ in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 11:11:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://jessicayeohwp.com/wp-admin/includes/file.php' (include_path='.:/opt/php70/lib/php') in /home2/essicaye/public_html/wp-content/plugins/backup-wd/includes/buwd.php on line 226
+[22-Oct-2017 06:13:04 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:04 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:04 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:04 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[22-Oct-2017 06:13:05 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:05 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:05 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:05 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[22-Oct-2017 06:13:06 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:06 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:06 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:06 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:06 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[22-Oct-2017 06:13:07 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:07 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:07 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:07 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[22-Oct-2017 06:13:08 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:08 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:08 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:08 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:08 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-Oct-2017 06:13:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
